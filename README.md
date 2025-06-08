@@ -1,2 +1,2 @@
 # networks-data-and-folder-file-structures-synchronizer
-Share anything from video/radio online streams to folderstructures filled with any type of php-regx compatible search file and properties-search, files, via PHP
+Share anything from video/radio online streams to folderstructures filled with any type of php-regx compatible search file and properties-search, files, via PHP in a prioritized by transmission speed (traceroute, wget, and curl as fallbacks with automatic installation during this project's installation as client user software, and latency aware whenever possible (barring electrical problems on a city / region's data network lines).
